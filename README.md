@@ -1,1 +1,1 @@
-# The Projects in the equally named Course on Coursera
+# The Projects from the equally named course on Coursera
